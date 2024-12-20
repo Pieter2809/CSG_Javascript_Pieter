@@ -19,7 +19,7 @@ var cirkel = {
     cirkel.y = random(this.diameter,canvas.height - this.diameter);
   },
 
-  controleerRaak() {
+  controleerRaak(){
     afstandMuisCirkel = dist(mouseX,mouseY,this.x,this.y);
 
   }
