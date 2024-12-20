@@ -18,3 +18,4 @@ class Cannon {
         this.x = constrain(this.x,canvas.width-600,canvas.width)
       }
 }
+//NieuweInformatie
